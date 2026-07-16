@@ -47,6 +47,8 @@ Main tables:
 
 ## 📊 Analysis Performed
 
+The analysis was performed in SQL Server, and the resulting datasets were imported into Power BI to build the data model and interactive dashboard.
+
 - Overall Employee Turnover
 - Department Turnover Analysis
 - Job Title Turnover Analysis
@@ -62,7 +64,7 @@ Main tables:
 
 - Overall employee turnover rate: 19.97%
 - Turnover rates were relatively consistent across departments.
-- Manager positions recorded no employee exits.
+- No employee exits were observed among employees holding the Manager title.
 - Employees with 7+ years of tenure showed the highest turnover.
 - Male and female employees had similar average salaries.
 - Salary alone did not appear to explain turnover differences between departments.
